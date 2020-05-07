@@ -135,3 +135,7 @@ ul.best-product li a span.price,
 .pagination li.active span:hover, blockquote, .btn.btn-arrow {
     border-color: #016b5b !important;
 }
+
+.fa-bars{
+    color: #fff;
+}
