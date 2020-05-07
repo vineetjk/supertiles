@@ -1,7 +1,9 @@
 /*#8e2a7e*/
+/* #00b4d9 */
+/* original color #029A83 */
 
 .btn.btn-slider {
-    border-color: #029A83 !important;
+    border-color: #00b4d9 !important;
 }
 
 .hr,
@@ -9,11 +11,11 @@
 .main section.tab .tab-box ul li.active a,
 .palovit-tab ul.nav li.active a,
 html.boxed .body {
-    border-top-color: #029A83 !important;
+    border-top-color: #00b4d9 !important;
 }
 
 .main article.blog-post label {
-    border-left-color: #029A83 !important;
+    border-left-color: #00b4d9 !important;
 }
 
 .main section.personnel .item div,
@@ -24,7 +26,7 @@ html.boxed .body {
 .main article.services .item div,
 .main article.blog-grid .item div,
 html.boxed .body {
-    border-bottom-color: #029A83 !important;
+    border-bottom-color: #00b4d9 !important;
 }
 
 .append-icon i,
@@ -74,7 +76,7 @@ ul.best-product li a span.price,
 .main article.page-contact .adress li i,
 .br-theme-fontawesome-stars .br-widget a.br-selected:after,
 .br-theme-fontawesome-stars .br-widget a.br-active:after, .account a, .account a:hover, .post-list li:before {
-    color: #029A83 !important;
+    color: #00b4d9 !important;
 }
 
     .pagetop,
@@ -108,14 +110,14 @@ ul.best-product li a span.price,
     .pagination li:hover a,
     .pagination li.active span,
     .pagination li.active span:hover {
-        background-color: #029A83 !important;
+        background-color: #00b4d9 !important;
     }
 
 .main article.shop-grid .item .grid-box .grid-box-wrapper:after,
 .main article.shop-single .item .grid-box .grid-box-wrapper:after,
 .main article.shop-cart .item .grid-box .grid-box-wrapper:after,
 .box2-action-icon {
-    background-color: rgba(2, 154, 131, 0.7) !important;
+    background-color: #00b5d9d2 !important;
 }
 
 .btn.btn-palovit:hover,
@@ -126,16 +128,21 @@ ul.best-product li a span.price,
 .btn.btn-arrow:focus,
 .btn.btn-arrow:active,
 .btn.btn-arrow:focus:active{
-    background-color: #016b5b !important;
+    background-color: #006579 !important;
 }
 
 .pagination li:hover a,
 .pagination li.active span,
 .main section.archive .container .row div span,
 .pagination li.active span:hover, blockquote, .btn.btn-arrow {
-    border-color: #016b5b !important;
+    border-color: #006579 !important;
 }
 
 .fa-bars{
     color: #fff;
 }
+.mygr{
+   color: #00b4d9; 
+}
+
+span.tab-space {padding-left:1em;}
