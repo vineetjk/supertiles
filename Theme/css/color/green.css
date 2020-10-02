@@ -146,3 +146,7 @@ ul.best-product li a span.price,
 }
 
 span.tab-space {padding-left:1em;}
+
+.center {
+    text-align: center;
+  }
