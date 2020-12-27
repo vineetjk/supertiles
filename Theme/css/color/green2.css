@@ -135,3 +135,8 @@ ul.best-product li a span.price,
 .pagination li.active span:hover, blockquote, .btn.btn-arrow {
     border-color: #4da740 !important;
 }
+
+
+.mycard-success{
+    background-color: green;
+}
